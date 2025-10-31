@@ -1,0 +1,5 @@
+{
+  "name": "Editor Criativo FOCA!",
+  "description": "Uma aplicação web para edição de imagens em lote e geração de imagens a partir de texto, usando os modelos de IA da família Gemini.",
+  "requestFramePermissions": []
+}
